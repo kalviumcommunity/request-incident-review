@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-10-30T10:00:00Z",
+    "level": "INFO",
+    "request_id": "r17",
+    "message": "Delivery update accepted"
+  },
+  {
+    "timestamp": "2026-10-30T10:00:02Z",
+    "level": "ERROR",
+    "request_id": "r17",
+    "message": "Delivery store connection failed after config release"
+  },
+  {
+    "timestamp": "2026-10-30T10:00:05Z",
+    "level": "INFO",
+    "request_id": "r99",
+    "message": "Tracking read succeeded"
+  },
+  {
+    "timestamp": "2026-10-30T10:00:10Z",
+    "level": "ERROR",
+    "request_id": "monitor",
+    "message": "Request error alert fired; incident opened"
+  },
+  {
+    "timestamp": "2026-10-30T10:01:00Z",
+    "level": "WARN",
+    "request_id": "incident",
+    "message": "All delivery updates affected; incident commander and communications assigned"
+  },
+  {
+    "timestamp": "2026-10-30T10:03:00Z",
+    "level": "INFO",
+    "request_id": "incident",
+    "message": "Previous known-good configuration restored"
+  },
+  {
+    "timestamp": "2026-10-30T10:04:00Z",
+    "level": "INFO",
+    "request_id": "verify",
+    "message": "Delivery update and read-back verified; errors returned to baseline; incident closed"
+  }
+]
